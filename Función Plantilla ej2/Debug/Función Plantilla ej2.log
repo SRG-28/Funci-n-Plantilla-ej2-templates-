@@ -1,0 +1,23 @@
+﻿  PlantillaDeFuncion2.cpp
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,20): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,76): warning C4305: 'inicializando': truncamiento de 'int' a 'char'
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,20): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,25): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,25): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,31): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,31): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,37): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,37): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,43): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,43): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,48): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,48): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,53): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,53): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,59): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,59): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,65): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,65): warning C4309: 'inicializando': truncamiento de valor constante
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,71): warning C4838: la conversión de 'int' en 'char' requiere una conversión de restricción
+D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Función Plantilla ej2\PlantillaDeFuncion2.cpp(19,71): warning C4309: 'inicializando': truncamiento de valor constante
+  Función Plantilla ej2.vcxproj -> D:\sofia\Escritorio\Github\C++\Patrones-etc\Templates\Función Plantilla ej2 (templates)\Debug\Función Plantilla ej2.exe
